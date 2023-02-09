@@ -11,3 +11,8 @@ from the array. Your task is to:
 Write the code snippet in JavaScript.
 Example to clean the data:
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Language We Use:
+<b>JAVA</b>
+<b>CSS</b>
+<b>HTML</b>
